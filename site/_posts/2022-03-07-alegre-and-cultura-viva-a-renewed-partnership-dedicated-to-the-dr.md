@@ -2,6 +2,7 @@
 layout: post
 title: Alegre and Cultura Viva, a renewed partnership, dedicated to the DR!
 date: 2022-03-07 13:34 -0400
+category: Dominican Republic.
 ---
 With the current state of the world, strong bonds between like minded individuals and groups are vital to making things better for ourselves and our children.
 
