@@ -29,10 +29,10 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-athena
-plugins:
+plugins: 
   - jekyll-feed
 
-  destination: public
+destination: public
 
 # Exclude from processing.
 # The following items will not be processed, by default.
