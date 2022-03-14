@@ -897,16 +897,17 @@ Banner Style
   padding: 250px 120px 150px 120px;
   position: relative;
   overflow: hidden;
+  height: 85vh;
 }
 
 .main-banner:after {
   content: '';
-  background-image: url(../images/slider-left-dec.png);
+  background-image: url(https://cdn.alegreglobal.com/wp-content/uploads/2021/04/17155153/Hero-Image-Home.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   position: absolute;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
   width: 100%;
   height: 100%;
   z-index: 1;
@@ -923,11 +924,12 @@ Banner Style
   line-height: 70px;
   font-size: 50px;
   margin-bottom: 20px;
+  color: #FFFFFF;
 }
 
 .main-banner .left-content p {
   margin-bottom: 45px;
-  color: #2a2a2a;
+  color: #FFFFFF;
   font-weight: 400;
 }
 
@@ -969,6 +971,7 @@ Services Style
   margin-top: 10px;
   margin-left: 18%;
   margin-right: 18%;
+  color: black;
 }
 
 .services .container-fluid {
